@@ -1,12 +1,11 @@
-Projekt: Projekt 1 Linux i Python - Kurs SDA
-Opracowany przez: Artur Jurczyk
+Project: Linux & Python - Software Development Academy - Cybersecurity Course
+Developed by: Artur Jurczyk
 
-Zadania w ramach projektu:
-1. Ustalić własny adres IP.
-2. Ustalić maskę podsieci.
-3. Na podstawie powyższych informacji
-przeskanować sieć i ustalić adres IP celu.
-4. Ustalić otwarte porty na atakowanej
-maszynie.
-5. Ustalić nazwę oraz wersję oprogramowania dla wszystkich znalezionych usług (banner grabbing).
-6. Przeprowadzić atak brute-force na dowolną znalezioną usługę (nie musi się udać).
+Project tasks:
+1. Display your own IP address.
+2. Display the subnet mask.
+3. Based on the above information
+scan the network and determine the target's IP address.
+4. Establish open ports on the target machine.
+5. Determine the name and version of the software for all found services (banner grabbing).
+6. Carry out a brute-force attack on any found service (it doesn't have to be successful).
